@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Except these file types
+!*.png
+!*.md
+!*.pdf
+!*.py
+!*.ipynb
+
+# Except directories (needed to traverse into subdirs)
+!*/
+
+# Except this file
+!.gitignore
+
+# Always ignore
+.claude/
+.vscode/
