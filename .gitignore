@@ -17,3 +17,4 @@
 # Always ignore
 .claude/
 .vscode/
+CLAUDE.md
